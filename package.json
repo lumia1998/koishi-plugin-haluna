@@ -1,0 +1,27 @@
+{
+  "name": "koishi-plugin-haluna",
+  "description": "",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist",
+    "resources"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "service": {
+    "implements": ["haluna"]
+  },
+  "peerDependencies": {
+    "koishi": "4.18.0"
+  },
+  "dependencies": {
+    "yaml": "^2.6.0"
+  }
+}
