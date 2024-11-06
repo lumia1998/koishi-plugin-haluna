@@ -3,9 +3,12 @@
     <img width="160" src="https://koishi.chat/logo.png" alt="logo">
   </a>
   <h1 id="koishi"><a href="https://koishi.chat/" target="_blank">Koishi</a></h1>
- [![npm](https://img.shields.io/npm/v/koishi-plugin-haluna?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-haluna)
-
 </div>
+
+<div align="center">
+  [![npm](https://img.shields.io/npm/v/koishi-plugin-haluna?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-haluna)
+</div>
+
 
 ## 插件简介
 
