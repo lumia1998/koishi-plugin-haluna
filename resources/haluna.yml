@@ -29,4 +29,4 @@ CallService:
     return_response: false # <- 我也不知道是什么玩意，别问
     responsepath:          # <- responsepath,将下面筛选器截取的值作为指令响应(可选)
       type: 'event'
-      path: 'event:data:new_state:attributes:answers[0]:llm:text'
+      path: 'event:data:new_state:attributes:answers[0]:tts:text'
