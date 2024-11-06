@@ -23,5 +23,5 @@
 - **超时机制**：待优化
 - **事件订阅**：只有在调试模式下有日志显示
 - **触发器订阅**：尚未实现
-## Homeassistant 安装教程
+## Homeassistant 安装教程及Miot 接入教程
 https://www.cnblogs.com/lumia1998/p/18529649
