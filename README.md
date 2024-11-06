@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://koishi.chat/" target="_blank">
+  <a href="https://github.com/koishijs/koishi" target="_blank">
     <img width="160" src="https://koishi.chat/logo.png" alt="logo">
   </a>
   <h1 id="koishi"><a href="https://koishi.chat/" target="_blank">Koishi</a></h1>
@@ -23,6 +23,5 @@
 - **超时机制**：待优化
 - **事件订阅**：只有在调试模式下有日志显示
 - **触发器订阅**：尚未实现
-
-
-
+## Homeassistant 安装教程
+https://www.cnblogs.com/lumia1998/p/18529649
