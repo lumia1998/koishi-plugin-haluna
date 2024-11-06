@@ -55,4 +55,6 @@ token：登录web的homeassistant的界面点击左下角账号名，如admin，
   - 添加readme
   ### 版本 0.0.4
   - 优化了readme，修复了小爱音箱未返回信息的bug。
+  ### 版本 0.0.5
+  - 修复调用小爱同学调用大模型时未返回信息的bug。
 </details>
