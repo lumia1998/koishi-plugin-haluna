@@ -30,3 +30,17 @@
 ### Home Assistant 安装教程
 
 请参考 [Home Assistant 安装教程](https://www.cnblogs.com/lumia1998/p/18529649) 以及 Miot 接入教程。
+
+<details>
+  <summary>更新日志</summary>
+
+  ### 版本 0.0.1
+  - 初始发布
+  - 支持小米音箱和部分小米智能家居设备
+
+  ### 版本 0.0.2
+  - 忘记传lib了
+
+  ### 版本 0.0.3
+  - 添加readme
+</details>
