@@ -26,11 +26,16 @@
 - **事件订阅**：只有在调试模式下有日志显示
 - **触发器订阅**：尚未实现
 
-## 安装教程
-
 ### Home Assistant 安装教程
 
 请参考 [Home Assistant 安装教程](https://www.cnblogs.com/lumia1998/p/18529649) 以及 Miot 接入教程。
+
+
+## 使用教程
+插件配置页：
+Ha地址：填写自己局域网或者内网穿透后的homeassistant的登录地址，如http://10.1.2.10:8123。
+token：登录web的homeassistant的界面点击左下角账号名，如admin，进入管理界面，点击顶部右侧的安全标签页，拉到下面有个长期访问令牌，建立一个后填入。
+接入设备要修改插件目录的/resources/haluna.yaml文件，目前仅测试了我的米家插座（别名水壶）和小爱同学pro，这2个算是通用模板，其他开关改成对应米家里的插座的名字和型号。具体的名字在homeassistant里点击首页的设备，有个实体标识符可以查看，小爱音箱同理
 
 <details>
   <summary>更新日志</summary>
